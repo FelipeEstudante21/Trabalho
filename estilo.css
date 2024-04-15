@@ -1,1 +1,23 @@
 
+.fundo{
+ background-color: bisque;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.cabeçalho{
+    background-color: aquamarine;
+    color:brown;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+    margin: 0px;
+}
+.cabeçalho-titulo{
+    display: inline-block;
+    justify-content: center;
+    margin: 0 16px;
+    font-size: 50px;
+}
